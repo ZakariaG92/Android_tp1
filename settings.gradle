@@ -1,0 +1,3 @@
+include ':newsletter'
+include ':app'
+rootProject.name = "tp1"
